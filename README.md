@@ -1,0 +1,2 @@
+# TechIstPyBootcampProje_Titanic_Veri_Analizi_Raporu
+TechIstPyBootcampProje_Titanic_Veri_Analizi_Raporu
